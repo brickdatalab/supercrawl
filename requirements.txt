@@ -1,0 +1,13 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+python-dotenv==1.0.0
+supabase==2.3.0
+google-generativeai==0.3.2
+aiohttp==3.9.1
+playwright==1.40.0
+celery==5.3.6
+redis==5.0.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+gunicorn==21.2.0
